@@ -14,3 +14,7 @@ echo "MERDEKAAAAA 2X";
 ?>
 
 kenapa
+
+git pull origin master   -> DOWNLOAD
+ git commit -am "commit 4" -> PERINTAH COMMIT
+ git push origin master -> PERINTAH UPLOAD
